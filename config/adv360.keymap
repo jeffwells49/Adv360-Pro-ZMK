@@ -43,10 +43,10 @@
             display-name = "Kp";
             bindings = <
 &kp EQUAL  &kp N1            &kp N2          &kp N3          &kp N4           &kp N5  &trans                                                   &mo 3                              &kp N6               &kp KP_NUM             &kp KP_EQUAL        &kp KP_DIVIDE               &kp KP_MULTIPLY  &kp MINUS
-&kp TAB    &kp Q             &kp W           &kp UP_ARROW    &kp R            &kp T   &none                                                    &none                              &kp ASTERISK         &mt AMPERSAND KP_N7    &mt ASTERISK KP_N8  &mt LEFT_PARENTHESIS KP_N9  &kp KP_MINUS     &kp BSLH
-&kp ESC    &kp A             &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp G   &tog 0    &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &kp RA(RC(M))                      &kp FSLH             &mt DOLLAR KP_N4       &mt PERCENT KP_N5   &mt LCTRL KP_N6             &kp KP_PLUS      &kp SQT
-&kp LSHFT  &kp Z             &kp X           &kp C           &kp V            &kp B                        &kp HOME      &kp PG_UP                                                &mt RS(EQUAL) EQUAL  &mt EXCLAMATION KP_N1  &mt AT_SIGN KP_N2   &mt HASH KP_N3              &kp KP_ENTER     &kp RSHFT
-&mo 2      &kp LEFT_BRACKET  &kp GRAVE       &kp LEFT        &kp RIGHT                &kp BSPC  &kp DEL    &kp END       &kp PG_DN  &kp ENTER  &mt RIGHT_PARENTHESIS KP_NUMBER_0                       &kp UP                 &kp DOWN            &kp KP_DOT                  &kp RBKT         &mo 2
+&kp TAB    &kp Q             &kp W           &kp UP_ARROW    &kp R            &kp T   &none                                                    &none                              &kp ASTERISK         &hm AMPERSAND KP_N7    &hm ASTERISK KP_N8  &hm LEFT_PARENTHESIS KP_N9  &kp KP_MINUS     &kp BSLH
+&kp ESC    &kp A             &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp G   &tog 0    &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &kp RA(RC(M))                      &kp FSLH             &hm DOLLAR KP_N4       &hm PERCENT KP_N5   &hm LCTRL KP_N6             &kp KP_PLUS      &kp SQT
+&kp LSHFT  &kp Z             &kp X           &kp C           &kp V            &kp B                        &kp HOME      &kp PG_UP                                                &hm RS(EQUAL) EQUAL  &hm EXCLAMATION KP_N1  &hm AT_SIGN KP_N2   &hm HASH KP_N3              &kp KP_ENTER     &kp RSHFT
+&mo 2      &kp LEFT_BRACKET  &kp GRAVE       &kp LEFT        &kp RIGHT                &kp BSPC  &kp DEL    &kp END       &kp PG_DN  &kp ENTER  &hm RIGHT_PARENTHESIS KP_NUMBER_0                       &kp UP                 &kp DOWN            &kp KP_DOT                  &kp RBKT         &mo 2
             >;
         };
 
